@@ -83,7 +83,9 @@ button{
     border: 0;
     background-color:#8257e5 ;
     width: 48px;
-    cursor: pointer;    
+    cursor: pointer;
+    padding-top: 5px;
+    
 }
 
 a{
